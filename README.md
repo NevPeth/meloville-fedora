@@ -1,7 +1,7 @@
 # Meloville RPM
 
 RPM packages for [Meloville](https://github.com/NevPeth/Meloville).
-Currently updated for Meloville v1.1.5 and Fedora 44.
+Currently updated for Meloville v1.1.6 and Fedora 44.
 
 ## Installation
 
